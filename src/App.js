@@ -3,7 +3,13 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <h1>🎰 Welcome to the slot machine game 🎰</h1>;
+  return (
+    <>
+      <span>
+        <h1>🎰 Welcome to the slot machine game 🎰</h1>
+      </span>
+    </>
+  );
 }
 
 export default App;
