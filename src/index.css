@@ -14,21 +14,14 @@
   background-color: #fff;
   font-size: 1.5rem;
   margin-bottom: 30px;
-  position: fixed;
-  right: 0;
-  left: 0;
-  z-index: 999;
 }
 .slotMachine {
   margin: auto;
-  padding: 100px 0;
   text-align: center;
   letter-spacing: 2px;
   font-weight: 500;
   font-size: 1.5rem;
-
-  width: max-content;
-}
-.slot_inner {
   border: 2px outset grey;
+  width: max-content;
+  padding: 30px;
 }
