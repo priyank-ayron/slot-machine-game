@@ -9,7 +9,7 @@ const Condition = (props) => {
 
   return (
     <>
-      <div className="slot_inner">
+      <div>
         <h1>
           {x} {y} {z}
         </h1>
