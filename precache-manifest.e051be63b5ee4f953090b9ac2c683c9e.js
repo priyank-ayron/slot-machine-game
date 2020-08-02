@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "815f02887cc1c7721dcd7026b770e9be",
+    "revision": "4b8e22bb782982d61b45a07f3d58fe5e",
     "url": "/slot-machine-game/index.html"
   },
   {
-    "revision": "4cf43bfc9750554601cb",
-    "url": "/slot-machine-game/static/css/main.26e0aaba.chunk.css"
+    "revision": "a98a6b3113a95ac91b21",
+    "url": "/slot-machine-game/static/css/main.5010f814.chunk.css"
   },
   {
     "revision": "79ec076f1434fd50d5a5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/slot-machine-game/static/js/2.4c6e778a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cf43bfc9750554601cb",
-    "url": "/slot-machine-game/static/js/main.fe6bc015.chunk.js"
+    "revision": "a98a6b3113a95ac91b21",
+    "url": "/slot-machine-game/static/js/main.0e7d36b6.chunk.js"
   },
   {
     "revision": "a8965788bbaffca765fc",

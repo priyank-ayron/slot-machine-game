@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/slot-machine-game/static/css/main.26e0aaba.chunk.css",
-    "main.js": "/slot-machine-game/static/js/main.fe6bc015.chunk.js",
-    "main.js.map": "/slot-machine-game/static/js/main.fe6bc015.chunk.js.map",
+    "main.css": "/slot-machine-game/static/css/main.5010f814.chunk.css",
+    "main.js": "/slot-machine-game/static/js/main.0e7d36b6.chunk.js",
+    "main.js.map": "/slot-machine-game/static/js/main.0e7d36b6.chunk.js.map",
     "runtime-main.js": "/slot-machine-game/static/js/runtime-main.32b2f065.js",
     "runtime-main.js.map": "/slot-machine-game/static/js/runtime-main.32b2f065.js.map",
     "static/js/2.4c6e778a.chunk.js": "/slot-machine-game/static/js/2.4c6e778a.chunk.js",
     "static/js/2.4c6e778a.chunk.js.map": "/slot-machine-game/static/js/2.4c6e778a.chunk.js.map",
     "index.html": "/slot-machine-game/index.html",
-    "precache-manifest.16882e0b8ebef9b8ca4f277f7ce71c45.js": "/slot-machine-game/precache-manifest.16882e0b8ebef9b8ca4f277f7ce71c45.js",
+    "precache-manifest.e051be63b5ee4f953090b9ac2c683c9e.js": "/slot-machine-game/precache-manifest.e051be63b5ee4f953090b9ac2c683c9e.js",
     "service-worker.js": "/slot-machine-game/service-worker.js",
-    "static/css/main.26e0aaba.chunk.css.map": "/slot-machine-game/static/css/main.26e0aaba.chunk.css.map",
+    "static/css/main.5010f814.chunk.css.map": "/slot-machine-game/static/css/main.5010f814.chunk.css.map",
     "static/js/2.4c6e778a.chunk.js.LICENSE.txt": "/slot-machine-game/static/js/2.4c6e778a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32b2f065.js",
     "static/js/2.4c6e778a.chunk.js",
-    "static/css/main.26e0aaba.chunk.css",
-    "static/js/main.fe6bc015.chunk.js"
+    "static/css/main.5010f814.chunk.css",
+    "static/js/main.0e7d36b6.chunk.js"
   ]
 }
